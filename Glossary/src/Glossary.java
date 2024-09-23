@@ -63,8 +63,6 @@ public final class Glossary {
         String definition = "";
         String word = "";
         String temp = "";
-        // boolean for use in second while loop
-        boolean nextBlank = false;
 
         /*
          * Loop runs until in reaches the end of its stream. In the loop, each
